@@ -1,7 +1,7 @@
 # Hexo2DocusaurusBlog
  Golang transfers hexo blog to Docusaurus blog
 
-English | 简体中文(./README_zh.md)
+English | [简体中文](./README_zh.md)
 
 
 # Convert Hexo Blog to Docusaurus Blog
